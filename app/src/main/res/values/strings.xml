@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AdsExample</string>
+    <string name="banner_ad">Banner Ad</string>
+    <string name="intersitial_ad">Intersitial Ad</string>
+    <string name="show_ad">Show Ad</string>
+    <string name="unified_native_ad">Unified Native Ad</string>
+    <string name="native_ad">Native Ad</string>
+    <string name="reward_video">Reward Video</string>
 </resources>
